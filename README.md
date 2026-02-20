@@ -8,6 +8,9 @@ A normalized relational database schema (1NF-3NF) designed for a hospital manage
 * **Performance Optimization:** Applied `INDEX` on high-traffic columns such as patient IDs, doctor IDs, and appointment dates.
 * **Data Integrity:** Utilized strict data types (`ENUM`, `DECIMAL(10,2)`, `CHAR`) to optimize storage and maintain standard data formats.
 
+* <img width="1065" height="1087" alt="image" src="https://github.com/user-attachments/assets/fc3cbc69-6dd6-4e40-9d58-d109f0f0cde0" />
+
+
 ## Core Entities
 The schema consists of 18 tables. The primary entities include:
 * `hastalar` & `doktorlar`
